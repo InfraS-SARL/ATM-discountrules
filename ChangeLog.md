@@ -5,6 +5,8 @@
 
 ## RELEASE 2.27
 - NEW : Minimum markup rate by customer or product + refacto in js file - *23/09/2025* - 2.27.0
+
+## RELEASE 2.26
 - NEW : COMPAT V22 - *08/07/2025* - 2.26.0
 
 ## RELEASE 2.25
