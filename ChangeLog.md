@@ -4,6 +4,7 @@
 ## Not Released
 
 ## RELEASE 2.27
+- FIX : Compat V23 - *11/12/2025* - 2.27.2
 - FIX : newImportLogLine miss params to import - *10/12/2025* - 2.27.1 
 - NEW : Minimum markup rate by customer or product + refacto in js file - *23/09/2025* - 2.27.0
 
