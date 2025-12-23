@@ -1,7 +1,10 @@
 # CHANGELOG FOR DISCOUNTRULES MODULE
 
 
-## Not Released
+## Unreleased
+
+## RELEASE 2.28
+- NEW : Min markup/margin extrafield now shows on customer third parties (wrong display condition on Societe object) - *05/12/2025* - 2.28.0
 
 ## RELEASE 2.27
 - FIX : Compat V23 - *11/12/2025* - 2.27.2
