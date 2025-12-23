@@ -4,10 +4,10 @@
 ## Unreleased
 
 ## RELEASE 2.28
+- FIX : Compat V23 - *11/12/2025* - 2.28.2
 - NEW : Min markup/margin extrafield now shows on customer third parties (wrong display condition on Societe object) - *05/12/2025* - 2.28.0
 
 ## RELEASE 2.27
-- FIX : Compat V23 - *11/12/2025* - 2.27.2
 - FIX : newImportLogLine miss params to import - *10/12/2025* - 2.27.1 
 - NEW : Minimum markup rate by customer or product + refacto in js file - *23/09/2025* - 2.27.0
 
